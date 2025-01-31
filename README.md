@@ -35,29 +35,6 @@ This is a feature-rich, responsive Todo List application built with Next.js, Rea
 - Node.js 14.6.0 or newer
 - npm or yarn
 
-### Installation
-
-1. Clone the repository:
-   \`\`\`
-   git clone https://github.com/yourusername/enhanced-todo-list.git
-   cd enhanced-todo-list
-   \`\`\`
-
-2. Install the dependencies:
-   \`\`\`
-   npm install
-   # or
-   yarn install
-   \`\`\`
-
-3. Run the development server:
-   \`\`\`
-   npm run dev
-   # or
-   yarn dev
-   \`\`\`
-
-4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Project Structure
 
